@@ -1,0 +1,75 @@
+.why-choose-us {
+    text-align: center;
+    padding: 5px 0;
+  }
+  
+  .heading2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .why-choose-container {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+  }
+  
+  .hr{
+    width: 100px;
+    height: 2px;
+    background-color: darkblue;
+  }
+
+  .box1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin:20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+
+  .box2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    padding: 20px;
+    margin:20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .box3{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .box:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #666;
+  }
+  

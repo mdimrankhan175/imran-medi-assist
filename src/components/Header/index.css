@@ -1,0 +1,16 @@
+.header-container {
+    background-color: #283f7c; /* Dark blue background color */
+    color: #fff; /* White text color */
+    padding: 1rem; /* Add padding to the header */
+  }
+  
+  .link-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .link-item{
+    color: white;
+    text-decoration: none;
+  }

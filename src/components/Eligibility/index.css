@@ -1,0 +1,40 @@
+.eligibility-container {
+    text-align: center;
+    padding: 50px 0;
+    background-color: rgb(10, 10, 143);
+    height: 100vh;
+    border:solid 1px cyan;
+    border-radius: 2px;
+  }
+  
+  .heading3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    color:white;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+    color: white;
+  }
+  
+  .left {
+    width: 50%;
+    text-align: left;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li span {
+    margin-right: 10px;
+    color: green;
+  }
+  
